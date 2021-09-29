@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JKho10
-- 👀 I’m interested in design, programming, AI and Cyber Security
+- 👀 I’m interested in design, programming, AI, Cyber Security and quality code
 - 🌱 I’m currently learning Kotlin/Java programming
 
 <!---
